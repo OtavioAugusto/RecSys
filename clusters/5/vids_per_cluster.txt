@@ -1,0 +1,5 @@
+Videos in cluster 0: 149
+Videos in cluster 1: 365
+Videos in cluster 2: 589
+Videos in cluster 3: 893
+Videos in cluster 4: 1956
