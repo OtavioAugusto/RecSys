@@ -1,0 +1,17 @@
+Videos in cluster 0: 197
+Videos in cluster 1: 521
+Videos in cluster 2: 281
+Videos in cluster 3: 843
+Videos in cluster 4: 231
+Videos in cluster 5: 43
+Videos in cluster 6: 274
+Videos in cluster 7: 126
+Videos in cluster 8: 204
+Videos in cluster 9: 127
+Videos in cluster 10: 202
+Videos in cluster 11: 89
+Videos in cluster 12: 162
+Videos in cluster 13: 190
+Videos in cluster 14: 179
+Videos in cluster 15: 146
+Videos in cluster 16: 68
